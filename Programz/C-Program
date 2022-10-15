@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("My name is Dennis Samuel\nI'm honing my coding skills\nAnd i love every step of it\n");
+	return 0;
+}
+
+
+#include <stdio.h>
+
+int main()
+{
+	int x;
+	x = 10;
+	int y;
+	y = x / 2;
+	int z = x - y * 2;
+
+	printf("The value of x is: %i\n,The value of y is:%i\n,The value of z is: %i\n, x, y, z);
+	return 0;
+}
